@@ -323,4 +323,6 @@ finally:
     cap.release()
     cv2.destroyAllWindows()
     hands.close()
+
+
     
